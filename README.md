@@ -11,5 +11,4 @@ Les fonctionnalités prévues à l'issue de ce projet sont les suivantes :
 
 # Apprentissages
 
-Le but de ce projet est de me permettre de saisir d'avantage le fonctionnement inhérent des frameworks js modernes, de distinguer les différents mécanismes de réactivité
-et percevoir leurs avantages/inconvénients respectifs.
+L'objectif de ce projet est de mieux comprendre le fonctionnement des frameworks JavaScript modernes, de distinguer les différents mécanismes de réactivité et de réussie à percevoir leurs avantages et inconvénients.
