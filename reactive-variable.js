@@ -31,7 +31,7 @@ export class Reactive {
     }
 
     get(){
-        return this.variable.value;
+        return this.variable_proxy.value;
     }
 
     update(){
